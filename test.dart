@@ -11,6 +11,8 @@ void main() {
   print(ssh.name);
   print(ssh.group);
   
+
+  // 여기서 두번째 수정을 좀 해봤어.
 }
 
 
