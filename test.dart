@@ -19,8 +19,8 @@ class Idol {
   String group;
   
   Idol ({
-    String name,
-    String group,
+    String name = '',
+    String group = '',
   })  : this.name = name,
         this.group = group;
   
